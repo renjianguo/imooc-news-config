@@ -1,0 +1,4 @@
+blackIP:
+  continueCounts: 35    
+  timeInterval: 10    
+  limitTimes: 600  
